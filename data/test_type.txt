@@ -1,0 +1,29 @@
+What is/are the synonym of [entity] x
+What is/are the synonym of [list of entity] x
+What is/are the synonym of [unknown entity] x 
+What is/are the disease of [list of symptoms]  x
+What is/are the disease of [list contains unknown entity] x
+What is/are the disease of [other name/acronym of symptoms] x
+What is/are the acronym of [single entity] x
+What is/are the acronym of [list of entity] x
+What is/are [single entity] x
+What is/are [unknown single] x
+What is/are [list of entity] x
+I have [symptoms] . What diseases x
+I have [list of symptoms] . What diseases x 
+I have [disease] . What symptoms  x
+What disease  . [description]  x 
+What symptoms . [description] x
+
+[TODO]
+What is/are the [unknown relation] [single entity]
+What is/are the [unknown relation] [unknown entity]
+What is/are the [unknown relation] [list of entity]
+What is/are the [unknown relation] [list contains unknown entity]
+
+# To be updated
+What is/are the [treatment of] [single disease]
+What is/are the [treatment of] [list of disease]
+How to [solve] [single disease]?
+How to [treat] [single disease]?
+
