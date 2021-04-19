@@ -1,0 +1,223 @@
+{
+  "liver cancer": {
+    "Object_overview": {
+      "overview":["cancer that begins in the cells of your liver"],
+      "original_text":["Liver cancer is cancer that begins in the cells of your liver. Your liver is a football-sized organ that sits in the upper right portion of your abdomen, beneath your diaphragm and above your stomach"]
+    },
+    "Object_symptom": {
+      "symptom": ["Losing weight without trying","Loss of appetite","Upper abdominal pain","Nausea and vomiting","General weakness and fatigue","Abdominal swelling","Yellow discoloration of your skin and the whites of your eyes (jaundice)","White, chalky stools"],
+      "original_text": ["Most people don't have signs and symptoms in the early stages of primary liver cancer. When signs and symptoms do appear, they may include:\n\nLosing weight without trying\nLoss of appetite\nUpper abdominal pain\nNausea and vomiting\nGeneral weakness and fatigue\nAbdominal swelling\nYellow discoloration of your skin and the whites of your eyes (jaundice)\nWhite, chalky stools"]
+    },
+    "Object_main_type": {
+      "main_type": ["hepatocellular carcinoma","intrahepatic cholangiocarcinoma and hepatoblastoma"],
+      "original_text": ["The most common type of liver cancer is hepatocellular carcinoma, which begins in the main type of liver cell (hepatocyte)","Other types of liver cancer, such as intrahepatic cholangiocarcinoma and hepatoblastoma, are much less common"]
+    },
+    "Object_risk_factor": {
+      "risk_factor": ["Chronic infection with HBV or HCV","Cirrhosis","Certain inherited liver diseases","Diabetes","Nonalcoholic fatty liver disease","Exposure to aflatoxins","Excessive alcohol consumption"],
+      "original_text": [" Chronic infection with the hepatitis B virus (HBV) or hepatitis C virus (HCV) increases your risk of liver cancer","This progressive and irreversible condition causes scar tissue to form in your liver and increases your chances of developing liver cancer","Liver diseases that can increase the risk of liver cancer include hemochromatosis and Wilson's disease","People with this blood sugar disorder have a greater risk of liver cancer than those who don't have diabetes","An accumulation of fat in the liver increases the risk of liver cancer.","Aflatoxins are poisons produced by molds that grow on crops that are stored poorly. Crops, such as grains and nuts, can become contaminated with aflatoxins, which can end up in foods made of these products","Consuming more than a moderate amount of alcohol daily over many years can lead to irreversible liver damage and increase your risk of liver cancer"]
+    },
+    "Object_cause": {
+      "cause": ["liver cells develop changes (mutations) in their DNA"],
+      "original_text": ["Liver cancer happens when liver cells develop changes (mutations) in their DNA. A cell's DNA is the material that provides instructions for every chemical process in your body. DNA mutations cause changes in these instructions. One result is that cells may begin to grow out of control and eventually form a tumor — a mass of cancerous cells"]
+    },
+    "Object_severe": {
+      "severe": [],
+      "original_text": []
+    },
+    "Object_prevention": {
+      "prevention": ["Drink alcohol in moderation, if at all","Maintain a healthy weight","Get vaccinated against hepatitis B","Take measures to prevent hepatitis C"],
+      "original_text": ["If you choose to drink alcohol, limit the amount you drink. For women, this means no more than one drink a day. For men, this means no more than two drinks a day","If your current weight is healthy, work to maintain it by choosing a healthy diet and exercising most days of the week. If you need to lose weight, reduce the number of calories you eat each day and increase the amount of exercise you do. Aim to lose weight slowly — 1 or 2 pounds (0.5 to 1 kilograms) each week","You can reduce your risk of hepatitis B by receiving the hepatitis B vaccine. The vaccine can be given to almost anyone, including infants, older adults and those with compromised immune systems","No vaccine for hepatitis C exists, but you can reduce your risk of infection.\n\nKnow the health status of any sexual partner\n\nDon't use intravenous (IV) drugs, but if you do, use a clean needle\n\nSeek safe, clean shops when getting a piercing or tattoo"]
+    },
+    "Object_method_diagnosis": {
+      "method_diagnosis":["Blood tests","Imaging tests","Removing a sample of liver tissue for testing"] ,
+      "original_text": ["Blood tests may reveal liver function abnormalities","Your doctor may recommend imaging tests, such as an ultrasound, CT and MRI","Sometimes it's necessary to remove a piece of liver tissue for laboratory testing in order to make a definitive diagnosis of liver cancer"]
+    },
+    "Object_treatment": {
+      "type": [],
+      "treatment": ["Hepatectomy","Liver transplant","Ablation","Chemotherapy","Radiation therapy","Targeted therapy","Embolization and chemoembolization"],
+      "original_text": ["A hepatectomy is performed to remove either a portion of the liver or all of the liver. This surgery is usually done when the cancer is confined to the liver. Over time, the remaining healthy tissue will regrow and replace the missing part","A liver transplant involves replacing the entire diseased liver with a healthy liver from a suitable donor. A transplant can only be done if the cancer hasn’t spread to other organs. Medicines to prevent rejection are given after the transplant","Ablation involves the use of heat or ethanol injections to destroy the cancer cells. It’s performed using local anesthesia. This numbs the area to prevent you from feeling any pain. Ablation can help people who aren’t candidates for surgery or a transplant","Chemotherapy is an aggressive form of drug therapy that destroys cancer cells. The medications are injected intravenously, or through a vein. In most cases, chemotherapy can be given as an outpatient treatment.\n\nChemotherapy can be effective in treating liver cancer, but many people experience side effects during treatment, including vomiting, decreased appetite, and chills. Chemotherapy can also increase your risk of infection.","Radiation therapy involves the use of high-energy radiation beams to kill cancer cells. It can be delivered by external beam radiation or by internal radiation.\n\nIn external beam radiation, the radiation is aimed at the abdomen and chest. Internal radiation involves the use of a catheter to inject tiny radioactive spheres into the hepatic artery.\n\nThe radiation then destroys the hepatic artery, a blood vessel that supplies blood to the liver. This decreases the amount of blood flowing to the tumor. When the hepatic artery is closed off, the portal vein continues to nourish the liver.","Targeted therapy involves the use of medications that are designed to hit cancer cells where they’re vulnerable. They decrease tumor growth and help shut down blood supply to the tumor.\n\nSorafenib (Nexavar) has been approved as targeted therapy for people with liver cancer. Targeted therapy can be helpful for people who aren’t candidates for a hepatectomy or liver transplant.\n\nTargeted therapy can, however, have significant side effects","Embolization and chemoembolization are surgical procedures. They’re done to block off the hepatic artery. Your doctor will use small sponges or other particles to do this. This reduces the amount of blood flowing to the tumor.\n\nIn chemoembolization, your doctor injects chemotherapy drugs into the hepatic artery before the particles are injected. The blockage created keeps the chemotherapy medications in the liver for a longer period."]
+
+    }
+  },
+  "rectal cancer": {
+    "Object_overview": {
+      "overview": ["cancer that develops in cells in the rectum"],
+      "original_text": ["Rectal cancer is cancer that develops in cells in the rectum. The rectum is located below the sigmoid colon and above the anus"]
+
+    },
+    "Object_symptom": {
+      "symptom": ["weakness and fatigue','appetite changes","weight loss","frequent abdominal discomfort, gas, cramps, pain","changes in how often you have bowel movements","feeling that your bowel isn’t emptying completely","pain when you have a bowel movement","diarrhea or constipation","blood or mucus in your stool","narrow stool","iron deficiency anemia"],
+      "original_text": ["Some symptoms of rectal cancer could be due to other conditions. These symptoms include:\n\nweakness and fatigue\nappetite changes\nweight loss\nfrequent abdominal discomfort, gas, cramps, pain\nOther signs and symptoms of rectal cancer include:\n\nchanges in how often you have bowel movements\nfeeling that your bowel isn’t emptying completely\npain when you have a bowel movement\ndiarrhea or constipation\nblood or mucus in your stool\nnarrow stool\niron deficiency anemia"]
+    },
+    "Object_main_type": {
+      "main_type": ["Adenocarcinoma","Carcinoid Tumors","Gastrointestinal Stromal Tumors","Lymphoma","Hereditary Rectal Cancer"],
+      "original_text": ["The vast majority of rectal cancer is adenocarcinoma. This is a cancer of the cells that line the inside surface of the rectum","Carcinoid tumors start in hormone-producing cells in the intestines","Gastrointestinal stromal tumors can be a type of soft tissue sarcoma that can be found anywhere in the gastrointestinal tract but is rare in the rectum. These tumors can also be other types of sarcoma that start in the blood vessels or connective tissue of the colon. ","Lymphoma is a cancer of the immune system. It more commonly starts in the lymph nodes but can start in the rectum","About 5 to 10 percent of people get colorectal cancer because of specific mutations in the genes that are passed from parents to children, which are referred to as hereditary. MSK’s experts may offer you genetic testing to see if you have hereditary mutations in your genes that can increase your cancer risk. Whether you should have this testing is based on an assessment of your personal risk. Learn more about genetic testing for colorectal cancer and the types of hereditary conditions that often lead to the disease"]
+    },
+    "Object_risk_factor": {
+      "risk_factor": ["age","Race","Family history","Radiation therapy"],
+      "original_text": ["Diagnosis usually occurs after age 50, although rates are increasing among younger people","Black Americans are at higher risk than other groups of developing rectal cancer. One reason for this may be inequities in healthcare access","Personal or family history of colorectal cancer can raise risk","Previous radiation treatment to the abdomen can increase risk"]
+    },
+    "Object_cause": {
+      "cause": ["Mistakes in DNA","inherited gene mutations","familial adenomatous polyposis"],
+      "original_text": ["Mistakes in DNA can cause cells to grow out of control. Faulty cells pile up to form tumors. These cells can penetrate and destroy healthy tissue. What sets off this process isn’t always clear","There are some inherited gene mutations that can increase risk. One of these is hereditary nonpolyposis colorectal cancer, known as Lynch syndrome. This disorder raises the risk of colon and other cancers, especially before age 50","Another such syndrome is familial adenomatous polyposis. This is a rare disorder that can cause polyps in the lining of the colon and rectum. Without treatment, it can raise the risk of colon or rectal cancer, especially before age 40"]
+    },
+    "Object_severe": {
+      "severe": [],
+      "original_text": []
+    },
+    "Object_method_diagnosis": {
+      "method_diagnosis": ["Laboratory tests","Biopsy","Colonoscopy","Imaging tests"],
+      "original_text": ["such as blood tests and advance genomic testing","","","such as MRI, CT scan and ultrasound"]
+    },
+    "Object_treatment": {
+      "type": ["stage 0","stage 1","stage 2 and 3","stage 4"],
+      "treatment": ["removal of suspicious tissue during colonoscopy\nremoval of tissue during a separate surgery\nremoval of tissue and part of the surrounding area","local excision or resection\nradiation therapy\nchemotherapy","surgery\nradiation therapy\nchemotherapy","surgery, possibly in more than one area of the body\nradiation therapy\nchemotherapy\ntargeted therapies, such as monoclonal antibodies or angiogenesis inhibitors\ncryosurgery, a procedure that uses a cold liquid or a cryoprobe to destroy abnormal tissue\nradiofrequency ablation, a procedure in which radio waves are used to destroy abnormal cells\na stent to keep the rectum open if it’s blocked by a tumor\npalliative therapy to improve overall quality of life"],
+      "original_text": []
+
+    }
+  },
+  "thalassemia": {
+    "Object_overview":{
+      "overview": ["inherited blood disorder",
+                  "hemoglobin",
+                  "Constant Spring",
+                  "Cooley’s anemia",
+                  "hemoglobin Bart’s hydrops",
+                  "hemoglobin"],
+      "original_text": [ "Thalassemia (thal-uh-SEE-me-uh) is an inherited blood disorder",
+                        "Hemoglobin is the protein molecule in red blood cells that carries oxygen",
+                        "You may hear it called things like Constant Spring, Cooley’s anemia, or hemoglobin Bart’s hydrops fetalis. These are common names for different forms of it",
+                        "You may hear it called things like Constant Spring, Cooley’s anemia, or hemoglobin Bart’s hydrops fetalis. These are common names for different forms of it",
+                        "You may hear it called things like Constant Spring, Cooley’s anemia, or hemoglobin Bart’s hydrops fetalis. These are common names for different forms of it",
+                        "Thalassaemia is the name for a group of inherited conditions that affect a substance in the blood called hemoglobins"]
+    },
+    "Object_symptom":{
+      "symptom": [ "fatigued",
+                    "not have symptoms or only mild ones",
+                    "tired, short of breath and pale",
+                    "Fatigue,Weakness,Pale or yellowish skin,Facial bone deformities,Slow growth,Abdominal swelling,Dark urine",
+                    "bone deformities, especially in the face,dark urine,delayed growth and development,excessive tiredness and fatigue,yellow or pale skin",
+                    "show up later",
+                    "Slow growth in children,Wide or brittle bones,Enlarged spleen (an organ in your abdomen that filters blood and fights disease),Fatigue,Weakness,Pale or yellow skin,Dark urine,Poor appetite,Heart problems",
+                    "no signs",
+                    "not show",
+                    "jaundice and pale skin,drowsiness and fatigue,chest pain,cold hands and feet,shortness of breath,leg cramps,rapid heart beat,poor feeding,delayed growth,headaches,dizziness and faintness,greater susceptibility to infections,Skeletal deformities may result as the body tries to produce more bone marrow",
+                    "growth, weak and fragile bones (osteoporosis), and reduced fertility.",
+                    "anemia and fatigue"],
+      "original_text":[ "leaving you fatigued",
+                        "A person with a trait or minor form may not have symptoms or only mild ones",
+                        "This can make them very anaemic (tired, short of breath and pale)",
+                        "Thalassemia signs and symptoms can include:Fatigue,Weakness,Pale or yellowish skin,Facial bone deformities,Slow growth,Abdominal swelling,Dark urine",
+                        "Some of the most common ones include:bone deformities, especially in the face,dark urine,delayed growth and development,excessive tiredness and fatigue,yellow or pale skin",
+                        "Signs of the disorder also tend to show up later in childhood or adolescence",
+                        "These can include:,,Slow growth in children,Wide or brittle bones,Enlarged spleen (an organ in your abdomen that filters blood and fights disease),Fatigue,Weakness,Pale or yellow skin,Dark urine,Poor appetite,Heart problems",
+                        "Some people who have thalassemia will show no signs at all",
+                        "Symptoms will not show until the age of 6 months in most infants with beta thalassemia and some types of alpha thalassemia",
+                        "These include:,,jaundice and pale skin,drowsiness and fatigue,chest pain,cold hands and feet,shortness of breath,leg cramps,rapid heart beat,poor feeding,delayed growth,headaches,dizziness and faintness,greater susceptibility to infections,Skeletal deformities may result as the body tries to produce more bone marrow.",
+                        "Some people may also have delayed growth, weak and fragile bones (osteoporosis), and reduced fertility.",
+                        "In some types this leads to a lack of oxygen, resulting in anemia and fatigue."]
+    },
+    
+    "object_main_type": {
+      "main_type": [  "mild thalassemia",
+                      "alpha thalassemia",
+                      "beta thalassemia",
+                      "Beta thalassaemia major",
+                      "beta thalassaemia intermedia, alpha thalassaemia major and haemoglobin H"],
+      "original_text": [  "mild thalassemia",
+                        "In alpha thalassemia, at least one of the alpha globin genes has a mutation or abnormality",
+                        "In beta thalassemia, the beta globin genes are affected",
+                        "Beta thalassaemia major is the most severe type",
+                        "Other types include beta thalassaemia intermedia, alpha thalassaemia major and haemoglobin H disease"]
+    },
+    "object_risk_factor": {
+      "risk_factor": [ "Mediterranean, South Asian, and African",
+                      "Mediterranean, south Asian, southeast Asian and Middle Eastern origins",
+                      "African Americans,people of Mediterranean, Southeast Asian descent",
+                      "Asia, the Middle East, Africa, and Mediterranean countries such as Greece and Turkey"],
+      "original_text": [  "It is most common with Mediterranean, South Asian, and African ancestry",
+                        "It mainly affects people of Mediterranean, south Asian, southeast Asian and Middle Eastern origins",
+                        "Thalassemia occurs most often in African Americans and in people of Mediterranean and Southeast Asian descent.",
+                        "Thalassemia is most common Trusted Source in people from Asia, the Middle East, Africa, and Mediterranean countries such as Greece and Turkey"]
+    },
+    "object_cause": {
+      "cause": [  "less hemoglobin than normal",
+                  "anemia",
+                  "inherited",
+                  "genetic mutation or a deletion of certain key gene fragments",
+                  "mutations in the DNA of cells",
+                  "passed from parents to children",
+                  "faulty genes",
+                  "faulty genes"],
+      "original_text": [  "your body to have less hemoglobin than normal",
+                        "Anemia is a condition in which your body doesn’t have enough normal, healthy red blood cells",
+                        "Thalassemia is inherited, meaning that at least one of your parents must be a carrier of the disorder",
+                        "It’s caused by either a genetic mutation or a deletion of certain key gene fragments",
+                        "Thalassemia is caused by mutations in the DNA of cells that make hemoglobin — the substance in red blood cells that carries oxygen throughout your body",
+                        "The mutations associated with thalassemia are passed from parents to children",
+                        "Thalassaemia is caused by faulty genes that affect the production of haemoglobin",
+                        "A child can only be born with thalassaemia if they inherit these faulty genes from both parents"]
+    },
+    "object_method_diagnosis": {
+      "method_diagnosis": [   "blood tests",
+                              "DNA analysis",
+                              "Prenatal testing",
+                              "Chorionic villus sampling",
+                              "take a blood sample",
+                              "look at the blood under a microscope",
+                              "examine,ask questions",
+                              "blood tests",
+                              "complete blood count",
+                              "electrophoresis test",
+                              "Genetic testing",
+                              "Chorionic villus sampling tests",
+                              "Blood tests",
+                              "complete blood count",
+                              "reticulocyte count",
+                              "Iron'",
+                              "Genetic testing",
+                              "Prenatal testing",
+                              "Chorionic villus sampling (CVS)",
+                              "Amniocentesis"],
+      "original_text": [  "If your doctor suspects your child has thalassemia, he or she can confirm a diagnosis with blood tests.",
+                          "Blood tests can also be used for DNA analysis to look for mutated genes",
+                          "Prenatal testing Testing can be done before a baby is born to find out if he or she has thalassemia and determine how severe it might be.",
+                          "Tests used to diagnose thalassemia in fetuses include: Chorionic villus sampling",
+                          "If your doctor is trying to diagnose thalassemia, they’ll likely take a blood sample",
+                          "A lab technician will also look at the blood under a microscope to see if the red blood cells are oddly shaped.",
+                          "They will examine you and will ask questions",
+                          "If a doctor suspects thalassemia, you’ll take blood tests",
+                          "One is a CBC (complete blood count) test",
+                          "The other is a hemoglobin electrophoresis test",
+                          "Genetic testing can show if you or your partner carries any of the genes that cause thalassemia",
+                          "Chorionic villus sampling tests a tiny piece of the placenta to see if a baby has the genes that cause thalassemia",
+                          "Blood tests can detect if a person is a carrier or if they have thalassemia",
+                          "A complete blood count (CBC): This can check levels of hemoglobin and the level and size of red blood cells.",
+                          "A reticulocyte count: This measures how fast red blood cells, or reticulocytes, are produced and released by the bone marrow",
+                          "Iron: This will help the doctor determine the cause of anemia, whether thalassemia or iron deficiency",
+                          "Genetic testing: DNA analysis will show whether a person has thalassemia or faulty genes",
+                          "Prenatal testing:This can show whether a fetus has thalassemia, and how severe it might be.",
+                          "Chorionic villus sampling (CVS): a piece of placenta is removed for testing, usually around the 11th week of pregnancy.",
+                          "Amniocentesis: a small sample of amniotic fluid is taken for testing, usually during the 16th week of pregnancy."]
+    },
+    "object_treatment": {
+      "type": [
+        "mild",
+        "more severe forms"
+      ],
+      "treatment": [
+        "not need treatment",
+        "regular blood transfusions"
+      ],
+      "original_text": [
+        "If you have mild thalassemia, you might not need treatment",
+        "more severe forms might require regular blood transfusions"
+      ]
+    },
+    "object_severe": {
+      "type": ["minor"],
+      "severe": ["less serious"],
+      "original_text": ["Thalassemia minor is a less serious form of the disorder"]
+    }
+  }
+}
